@@ -43,5 +43,4 @@ Programação: `Introdução a Programação de Computadores` `Programação Ori
 </div>
 
 ![Snake Animation](https://github.com/elcioam/ecioam/blob/output/github-contribution-grid-snake.svg)
-
 ------
