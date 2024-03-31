@@ -32,7 +32,7 @@
 [<img align="left" height="94px" width="94px" alt="CEFET-MG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_CEFET-MG.png/600px-Logo_CEFET-MG.png"/>](https://www.cefetmg.br/)
 **Engenharia da Computação (Campus V - Divinópolis** \
 [**CEFET MG**]([https://www.cefetmg.br](https://www.cefetmg.br))  • Em progresso.
-Programação: `Introdução a Programação de Computadores` `Programação Orientada a Objetos` <br> `Algorítimos e Estrutura de Dados` 
+Programação: `Introdução a Programação de Computadores` `Programação Orientada a Objetos` `Algorítimos e Estrutura de Dados` 
 
 <br>
 
