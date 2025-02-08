@@ -32,7 +32,7 @@
 [<img align="left" height="94px" width="94px" alt="CEFET-MG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_CEFET-MG.png/600px-Logo_CEFET-MG.png"/>](https://www.cefetmg.br/)
 **Engenharia da Computação (Campus V - Divinópolis** \
 [**CEFET MG**]([https://www.cefetmg.br](https://www.cefetmg.br))  • Em progresso.
-`Introdução a Programação de Computadores` `Programação Orientada a Objetos` `Algorítimos e Estrutura de Dados` 
+`Introdução a Programação de Computadores` `Programação Orientada a Objetos` `Algorítimos e Estrutura de Dados I` `Algorítimos e Estrutura de Dados II` 
 
 <br>
 
@@ -41,6 +41,6 @@
 <a href="https://www.instagram.com/elcioamorim_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: elcioamorim12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
+<a href = "mailto: elcioamorim12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
 
-![Snake Animation](https://github.com/elcioam/elcioam/blob/output/github-contribution-grid-snake.svg)
-------
