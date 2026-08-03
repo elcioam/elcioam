@@ -6,41 +6,36 @@
 <br>
 
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=elcioam&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcioam&layout=compact&theme=radical" />
-</div>
 
-
-<br>
-
-## Linguagens e Ferramentas
+## Tecnologias e Ferramentas
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
+#### Tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,tailwindcss,nodejs)](https://skillicons.dev)
 
 #### Ferramentas:
-
-  [![My Skills](https://skillicons.dev/icons?i=photoshop,vscode,ae,ai)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=photoshop,ai,vscode,figma,threejs,vite,notion,vercel)](https://skillicons.dev)
 <br>
+<div>
+  <img loading="lazy" height="28" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+  <img loading="lazy" height="28" src="https://img.shields.io/badge/Antigravity-000000?style=flat-square" alt="Antigravity">
+</div>
+
+<br><br>
 
 ## Formação:
 
-[<img align="left" height="94px" width="94px" alt="CEFET-MG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Logo_CEFET-MG.png/600px-Logo_CEFET-MG.png"/>](https://www.cefetmg.br/)
-**Engenharia da Computação (Campus V - Divinópolis** \
-[**CEFET MG**]([https://www.cefetmg.br](https://www.cefetmg.br))  • Em progresso.
-`Introdução a Programação de Computadores` `Programação Orientada a Objetos` `Algoritmos e Estrutura de Dados I` `Algoritmos e Estrutura de Dados II` 
+[<img align="left" height="94px" width="94px" alt="CEFET-MG" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_CEFET-MG.png"/>](https://www.cefetmg.br/)
+**Engenharia da Computação (Campus V - Divinópolis)** <br>
+[**CEFET MG**](https://www.cefetmg.br) &nbsp;• Em progresso. <br>
+`Introdução a Programação de Computadores` `Programação Orientada a Objetos` `Algoritmos e Estrutura de Dados I` `Algoritmos e Estrutura de Dados II` `Sistemas Operacionais` `Redes` `Microcontroladores e Microprocessadores`
 
-<br>
+<br><br>
 
 ## Contato:
 <div>
 <a href="https://www.instagram.com/elcioamorim_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: elcioamorim12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="mailto:elcioamorim12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/%C3%A9lcio-amorim-0210532a2/"><img loading="lazy" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
 </div>
-<a href = "https://www.linkedin.com/in/%C3%A9lcio-amorim-0210532a2/"><img loading="lazy" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
