@@ -9,7 +9,7 @@
 
 ## Tecnologias e Ferramentas
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,tailwindcss,nodejs)](https://skillicons.dev)
